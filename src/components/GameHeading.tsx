@@ -1,6 +1,6 @@
 import { Heading } from "@chakra-ui/react";
 import useGenre from "../hooks/useGenre";
-import usePlatFrom from "../hooks/usePlatform";
+import usePlatFrom from "../hooks/usePlatForm";
 import useGameQueryStore from "../store";
 
 const GameHeading = () => {
